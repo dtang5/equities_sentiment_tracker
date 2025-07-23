@@ -691,7 +691,7 @@ def main():
     for time_filter in ["new", "hot"]:
         ticker_data = counter.scan_all_subreddits(time_filter=time_filter, limit=200)
 
-        df = counter.save_results(ticker_data)
+        df = counter.save_results(ticker_data, file_name_suffix=time_filter)
 
         print("\n" + "=" * 80)
         print(f"SUMMARY STATISTICS {time_filter.upper()}")

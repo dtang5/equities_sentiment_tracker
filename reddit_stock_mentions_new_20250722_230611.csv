@@ -1,7 +1,7 @@
 Ticker,Company,Mentions,Confidence,$ Ratio,Context Ratio,Positive %,Price,Change,Market Cap,Subreddits
-OPEN,Opendoor Technologies Inc.,73,60%,48%,0%,63.0%,$2.88,-10.28%,$2.1B,2
+OPEN,Opendoor Technologies Inc.,75,60%,49%,0%,62.7%,$2.88,-10.28%,$2.1B,2
 KSS,Kohl's Corporation,39,60%,36%,0%,59.0%,$14.34,+37.62%,$1.6B,2
-RKT,"Rocket Companies, Inc.",21,60%,24%,0%,66.7%,$16.00,+6.38%,$33.8B,2
+RKT,"Rocket Companies, Inc.",20,60%,25%,0%,65.0%,$16.00,+6.38%,$33.8B,2
 MORE,ASYMmetric Smart Income ETF,21,50%,0%,62%,76.2%,$22.33,N/A,N/A,2
 DNUT,"Krispy Kreme, Inc.",12,60%,42%,0%,100.0%,$4.13,+26.69%,N/A,2
 QQQ,Invesco QQQ Trust,12,60%,75%,0%,100.0%,$561.25,-0.52%,$220.6B,2
