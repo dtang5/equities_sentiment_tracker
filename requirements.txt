@@ -1,0 +1,6 @@
+praw 
+pandas
+yfinance
+vaderSentiment
+requests
+ruff
