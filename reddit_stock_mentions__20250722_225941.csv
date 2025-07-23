@@ -1,0 +1,51 @@
+Ticker,Company,Mentions,Confidence,$ Ratio,Context Ratio,Positive %,Price,Change,Market Cap,Subreddits
+OPEN,Opendoor Technologies Inc.,75,60%,49%,0%,61.3%,$2.88,-10.28%,$2.1B,2
+KSS,Kohl's Corporation,39,60%,36%,0%,59.0%,$14.34,+37.62%,$1.6B,2
+RKT,"Rocket Companies, Inc.",21,60%,24%,0%,66.7%,$16.00,+6.38%,$33.8B,2
+MORE,ASYMmetric Smart Income ETF,21,50%,0%,62%,76.2%,$22.33,N/A,N/A,2
+DNUT,"Krispy Kreme, Inc.",12,60%,42%,0%,100.0%,$4.13,+26.69%,N/A,2
+QQQ,Invesco QQQ Trust,11,50%,82%,0%,100.0%,$561.25,-0.52%,$220.6B,1
+AI,"C3.ai, Inc.",14,20%,0%,0%,92.9%,$28.49,+0.56%,$3.8B,2
+TERM,EquityCompass Tactical Risk Ma,6,45%,0%,100%,83.3%,$22.15,+0.61%,N/A,2
+GLXY,Galaxy Digital,5,50%,100%,0%,100.0%,$29.11,+6.05%,$11.2B,2
+NEAR,iShares Short Duration Bond Ac,11,20%,0%,0%,90.9%,$51.01,+0.06%,N/A,2
+MP,MP Materials Corp.,6,35%,17%,0%,100.0%,$60.08,+1.81%,$9.8B,2
+DVLT,Datavault AI Inc.,4,50%,75%,0%,75.0%,$0.72,-5.67%,N/A,2
+RZLV,Rezolve AI PLC,5,40%,60%,0%,100.0%,$2.99,+10.74%,N/A,1
+NFA,NFA,18,10%,0%,0%,77.8%,N/A,N/A,N/A,1
+SOLD,130729,6,30%,0%,17%,66.7%,N/A,N/A,N/A,2
+NCNA,NuCana plc,4,40%,50%,0%,25.0%,$0.05,+3.92%,N/A,1
+BTBT,"Bit Digital, Inc.",3,45%,33%,33%,100.0%,$3.27,-1.51%,$1.0B,2
+MEME,Roundhill MEME ETF,9,15%,0%,0%,100.0%,$38.51,-0.21%,N/A,2
+LITM,Snow Lake Resources Ltd.,3,40%,67%,0%,100.0%,$4.77,+13.03%,N/A,1
+GELS,Gelteq Limited,3,40%,100%,0%,100.0%,$1.95,+6.56%,N/A,1
+PHGE,BiomX Inc.,3,40%,100%,0%,33.3%,$0.43,+5.14%,N/A,1
+JUNE,SuperX AI Technology Limited,8,15%,0%,0%,100.0%,$11.50,+6.48%,N/A,2
+LAST,LAST,8,15%,0%,0%,75.0%,N/A,N/A,N/A,2
+RILY,"B. Riley Financial, Inc.",11,10%,0%,0%,36.4%,$5.77,+15.17%,N/A,1
+SI,SI,7,15%,0%,0%,71.4%,$1.25,N/A,N/A,2
+PER,PER,7,15%,0%,0%,85.7%,N/A,N/A,N/A,2
+OWN,OWN,7,15%,0%,0%,100.0%,N/A,N/A,N/A,2
+UPST,"Upstart Holdings, Inc.",2,50%,100%,0%,100.0%,$79.99,+4.32%,$7.6B,2
+SPY,SPDR S&P 500 ETF,6,15%,0%,0%,83.3%,$628.86,+0.01%,$577.2B,2
+SBET,"SharpLink Gaming, Inc.",6,15%,0%,0%,83.3%,$27.40,+8.54%,$2.6B,2
+CAD,PIMCO Canada Bond Index Exchan,3,30%,33%,0%,100.0%,$95.88,N/A,N/A,2
+RSI,"Rush Street Interactive, Inc.",6,15%,0%,0%,83.3%,$14.64,+0.62%,$3.4B,2
+OLB,"The OLB Group, Inc.",2,40%,100%,0%,100.0%,$1.63,+1.24%,N/A,1
+IXHL,Incannex Healthcare Inc.,2,40%,100%,0%,50.0%,$0.84,+2.44%,N/A,1
+UUUU,Energy Fuels Inc.,2,40%,100%,0%,100.0%,$9.20,-0.11%,$2.1B,1
+ASPI,ASP Isotopes Inc.,2,40%,100%,0%,100.0%,$9.32,-5.62%,N/A,1
+PROK,ProKidney Corp.,4,20%,25%,0%,100.0%,$3.05,-5.28%,$1.8B,1
+PYPD,PolyPid Ltd.,2,40%,100%,0%,0.0%,$3.76,+0.80%,N/A,1
+MARA,"MARA Holdings, Inc.",2,40%,100%,0%,100.0%,$19.88,+5.58%,$7.0B,1
+PCT,"PureCycle Technologies, Inc.",2,40%,100%,0%,100.0%,$16.14,-1.16%,$2.9B,1
+YOUL,Youlife Group Inc.,2,40%,100%,0%,100.0%,$2.21,-14.01%,N/A,1
+ABAT,American Battery Technology Co,2,40%,100%,0%,100.0%,$2.88,+12.50%,N/A,1
+POST,"Post Holdings, Inc.",3,25%,0%,33%,100.0%,$108.43,+2.17%,$6.0B,2
+HOOD,"Robinhood Markets, Inc.",3,20%,33%,0%,33.3%,$101.85,-2.39%,$89.9B,1
+WLGS,"WANG & LEE GROUP, Inc.",3,20%,33%,0%,66.7%,$0.07,+36.10%,N/A,1
+AUG,AUG,4,15%,0%,25%,75.0%,N/A,N/A,N/A,1
+PGY,Pagaya Technologies Ltd.,2,30%,50%,0%,100.0%,$31.66,+1.12%,$2.4B,2
+TSLA,"Tesla, Inc.",2,30%,50%,0%,100.0%,$332.11,+1.10%,$1069.7B,2
+GOOG,Alphabet Inc.,2,30%,50%,0%,100.0%,$192.11,+0.50%,$2325.6B,2
+GAME,"GameSquare Holdings, Inc.",2,30%,50%,0%,100.0%,$1.38,-5.48%,N/A,2
